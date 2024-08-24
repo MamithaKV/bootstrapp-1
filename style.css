@@ -1,0 +1,150 @@
+*{
+    margin: 10px;
+    margin-left: 10px;
+}
+.a{
+    font-family: "Tangerine", cursive;
+}
+.b{
+    font-family: "Chakra Petch", sans-serif;
+}
+.c{
+    font-family: "EB Garamond", serif;  
+}
+.photo-row {
+    display: flex;
+    gap: 50px;
+    margin-left:200px ;
+    /* Optional space between images */
+}
+
+.photo-row img {
+    width: 200px; /* Adjust width as needed */
+    height: 300px; /* Maintain aspect ratio */
+    border-radius: 8px; /* Optional: rounded corners */
+    border: 3% solid #ccc; /* Optional: border around images */
+}
+.photo1{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    /* space between border and content */    
+}
+.photo2{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    /* space between border and content */    
+}
+.photo3{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    /* space between border and content */    
+}
+.photo4
+{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    /* space between border and content */    
+}
+
+
+
+
+
+.d{
+    margin-right: 350px;
+    
+}
+.e{
+    font-family: "EB Garamond", serif;
+}
+.f{
+    font-family: "Marck Script", cursive;
+    color:burlywood;
+}
+#footer{
+    background-color: rgb(143, 138, 138);
+    height: 500px;
+}
+.batch1{
+    padding-top: 100px;
+    padding-left: 100px;
+    color: white;
+    width: 300px;
+   
+
+}
+#para{
+    line-height: 1.6;
+}
+.batch2{
+    color: white;
+    width: 400px;
+    height: 200px;
+   margin-left: 200px;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.f-main{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+   margin-right: 100px;
+}
+
+#h2{
+    color: white;
+}
+.batch3{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+button{
+    margin-left: 30px;
+    background-color: rgb(66, 69, 66);
+    color: white;
+    width: 150px;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid;
+    font-size: 18px;
+}
+
+#download{
+    color: black;
+}
+#icon{
+    padding: 10px;
+}
+#para{
+    line-height: 1.6;
+}
+.aboutbody{
+    margin-top: 20px;
+    
+    display: grid;
+    /*  grid-template-columns:repeat(2,1fr) */
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 20px;
+}
+.img1{
+    width: 80%;
+}
+.oee{
+    text-align: center;
+    color: darkgray;
+    font-family: "Sofia", cursive;
+}
+.hhh{
+    color: rgb(196, 188, 173);
+    font-family: "Tangerine", cursive;
+}
+.maaam{
+    margin-left: 500px;
+}
